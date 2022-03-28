@@ -1,0 +1,13 @@
+Layout Component
+    SidePanelComponent
+        ProfileSectionComponent
+        NavigationMenuComponent
+        FooterComponent
+    MainContent Component
+
+HomeComponent
+AboutComponent
+ResumeComponent
+PortfolioComponent
+ServicesComponent
+ContactComponent
