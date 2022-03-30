@@ -1,4 +1,4 @@
-const ProfileComponent = () => {
+const HomeComponent = () => {
   return (
     <section
       id="hero"
@@ -18,4 +18,4 @@ const ProfileComponent = () => {
   );
 };
 
-export default ProfileComponent;
+export default HomeComponent;
